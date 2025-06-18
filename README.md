@@ -24,9 +24,9 @@ This is my official portfolio repository.
 ---
 
 ## 🌐 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ganeshpawar)
-- 🖥️ [GitHub](https://github.com/ganeshpawar)
-- 📧 Email: yourname@example.com (replace this with your real one)
+- 🔗 [LinkedIn](www.linkedin.com/in/ganesh-pawar-283386348)
+- 🖥️ [GitHub](https://github.com/GaneshPawar123)
+- 📧 Email: pawarganesh1616@gmail.com (replace this with your real one)
 
 ---
 
